@@ -2,8 +2,8 @@
   <!-- Замени ссылку на свой баннер. Можно сделать красивый в Canva или взять скриншот из CRMP с фильтрами -->
   <img src="https://via.placeholder.com/800x250/0d1117/58a6ff?text=CRMP+Developer+Profile" alt="Profile Banner" width="100%" />
   
-  <h1>Привет, я <a href="https://github.com/your-username">@CorserDev</a> 👋</h1>
-  <h3>🎮 Lead/Core Developer ELITE RUSSIA</h3>
+  <h1>Привет, я <a href="https://github.com/your-username">@your-username</a> 👋</h1>
+  <h3>🎮 Lead/Core Developer CRMP-проектов | 🛠️ Архитектор игровых механик</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -34,7 +34,7 @@
   <summary><b>🔍 Подробнее о стеке и инструментах (нажми, чтобы развернуть)</b></summary>
   <br>
   
-  - **🧩 Языки:** Pawn (основной), SQL.
+  - **🧩 Языки:** Pawn (основной), PHP (для веб-части/лаунчера), C++ (для написания нативных плагинов), SQL.
   - **🗄️ Базы данных:** MySQL (MariaDB), работа с большими массивами данных, оптимизация запросов, кэширование.
   - **⚙️ CRMP/SAMP Инструменты:** 
     - `YSI-Includes` (продвинутая работа с данными, OOP в pawn, таймеры)
