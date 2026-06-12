@@ -3,7 +3,7 @@
   <img src="https://via.placeholder.com/800x250/0d1117/58a6ff?text=ELITE+RUSSIA+%7C+CorserDev" alt="Profile Banner" width="100%" />
   
   <h1>Привет, я <a href="https://github.com/CorserSS">@CorserSS</a> (CorserDev) 👋</h1>
-  <h3>🎮 Core Developer проекта ELITE RUSSIA | 🛠️ Fullstack разработчик игровых модов</h3>
+  <h3>🎮 Lead Developer проекта ELITE RUSSIA | 🛠️ Fullstack разработчик игровых модов</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=CorserSS&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -33,7 +33,7 @@
   <summary><b>🔍 Подробнее о стеке и инструментах (нажми, чтобы развернуть)</b></summary>
   <br>
   
-  - **🎮 Game Backend:** `PAWN` (с использованием `YSI-Includes` для OOP и оптимизации), `MySQL` (MariaDB, сложные запросы, кэширование), `crashdetect`, `sscanf2`, `Streamer`.
+  - **🎮 Game Backend:** `PAWN` (с использованием `PawnPlus and Open.mp` для OOP и оптимизации), `MySQL` (MariaDB, сложные запросы, кэширование), `Streamer`.
   - **🌐 Web & Frontend:** `Vue.js` (реактивные интерфейсы, возможно CEF или веб-сайт проекта), `JavaScript (ES6+)`, `HTML5`, `CSS3` (SCSS/Tailwind).
   - **🛠️ Инструменты:** `Git`, `GitHub Actions` (CI/CD для авто-компиляции мода), `VS Code`, `Docker` (для локального развертывания БД).
 </details>
@@ -63,14 +63,8 @@
 Открыт для технического нетворкинга и обсуждения архитектуры игровых проектов.
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/CorserDev">
+  <a href="https://t.me/Corserss">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
