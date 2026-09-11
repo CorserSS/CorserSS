@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/CorserSS">
     <img src="https://skillicons.dev/icons?i=pawn,mysql,html,css,js,vue,git,webpack,vite,nodejs,C" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=C++" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=pawn" alt="Tech Stack" />
   </a>
 </div>
 
